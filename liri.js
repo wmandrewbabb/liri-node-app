@@ -92,7 +92,7 @@ function getOMDB() {
     });
 };
 
-//Opens the text file and reads what's inside, triggering a command
+//Opens the text file and read it, triggering a command
 
 function getTXTandstop() {
 
